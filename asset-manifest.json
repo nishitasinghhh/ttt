@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ttt/static/css/main.be87db19.css",
+    "main.js": "/ttt/static/js/main.3e853fe3.js",
+    "static/js/787.3475ea04.chunk.js": "/ttt/static/js/787.3475ea04.chunk.js",
+    "static/media/kkk.avif": "/ttt/static/media/kkk.aad2c93a327856582b45.avif",
+    "static/media/kashmir3.avif": "/ttt/static/media/kashmir3.02d3fb9647d448943693.avif",
+    "static/media/jaipur1.avif": "/ttt/static/media/jaipur1.28013b90431ebe970e42.avif",
+    "static/media/taj2.avif": "/ttt/static/media/taj2.2be0299eb17d9de369f5.avif",
+    "static/media/kerelaaa.avif": "/ttt/static/media/kerelaaa.810a524798d296c244c1.avif",
+    "static/media/Goa.avif": "/ttt/static/media/Goa.06170d2d8daed46df394.avif",
+    "static/media/ladakh.avif": "/ttt/static/media/ladakh.9958caa5b1bb06d76729.avif",
+    "static/media/tajmahal.avif": "/ttt/static/media/tajmahal.568ab1a4005e2c451e28.avif",
+    "static/media/golden.avif": "/ttt/static/media/golden.db4a3acadf221705db85.avif",
+    "static/media/jaipur2.avif": "/ttt/static/media/jaipur2.12688cdf18c82b1e06aa.avif",
+    "static/media/desert.avif": "/ttt/static/media/desert.62650a0ec4704bf8b5d3.avif",
+    "static/media/logo.svg": "/ttt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ttt/index.html",
+    "main.be87db19.css.map": "/ttt/static/css/main.be87db19.css.map",
+    "main.3e853fe3.js.map": "/ttt/static/js/main.3e853fe3.js.map",
+    "787.3475ea04.chunk.js.map": "/ttt/static/js/787.3475ea04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be87db19.css",
+    "static/js/main.3e853fe3.js"
+  ]
+}
